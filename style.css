@@ -1,0 +1,128 @@
+body
+{
+	font-family:Calibri,sans;
+}
+
+/* Edit colours here */
+.definitions
+{
+	background-color:#efefef;
+	font-style:italic;
+	text-align:center;
+	font-size:90%;
+}
+.jobBackground
+{
+	background-color:#2a206a;
+	color:#ffffff;
+	text-align:center;
+}
+.dimensionBackground
+{
+	background-color:#2a206a;
+	color:#ffffff;
+	text-align:center;
+}
+.dimensionBackgroundOdd
+{
+	background-color:#d1defe;
+	text-align:center;
+	color:#000;
+}
+.dimensionBackgroundEven
+{
+	background-color:#d1defe;
+	text-align:center;
+	color:#000;
+}
+.dimensionImage
+{
+	background-color:#d1defe;
+}
+.distributionBackground
+{
+	font-weight:normal;
+}
+.positionBackground
+{
+	font-weight:normal;
+	background-color:#fff;
+}
+.dataOddRow
+{
+	background-color:#f0f0f0;
+}
+.dataEvenRow
+{
+	background-color:#fff;
+}
+.headerOddRow
+{
+	background-color:#ffffff;
+}
+.headerEvenRow
+{
+	background-color:#ffffff;
+}
+.logo
+{
+	background-color:#ffffff;
+	color:#000;
+}
+.header1
+{
+	background-color:#FFF;
+	color:#000;
+}
+.header2
+{
+	background-color:#fff;
+	color:#000;
+}
+.header3
+{
+	background-color:#FFF;
+	color:#000;
+}
+.topCell1
+{
+	background-color:#f0f0f0;
+}
+.topCell2
+{
+	background-color:#f0f0f0;
+		color:#000;
+}
+.topCell3
+{
+	background-color:#f0f0f0;
+}
+.positionTitle
+{
+	background-color:#f0f0f0;
+}
+.distributionTitle
+{
+	background-color:#FFF;
+}
+#positionTitle, #distributionTitle
+{
+	display:none;
+}
+.thickRow
+{
+	border-width:1px !important;
+}
+#resultsSection
+{
+	margin-top:10px;
+}
+#print
+{
+	display:none;
+}
+#instructions
+{
+	max-width:1000px;
+	text-align:justify;
+}
